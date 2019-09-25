@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\controller.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"controller.h"
+	"tools.h"
+	"startinterface.h"
+	"map.h"
+	"snake.h"
+	"food.h"
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\controller.h
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\tools.h
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\startinterface.h
+	<deque>
+	<vector>
+	"point.h"
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\point.h
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\map.h
+	<vector>
+	"point.h"
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\snake.h
+	<deque>
+	"point.h"
+	"food.h"
+
+1521984761 c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\food.h
+	"snake.h"
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\food.cpp
+	"food.h"
+	"tools.h"
+	<cstdlib>
+	<iostream>
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\main.cpp
+	"controller.h"
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\map.cpp
+	"map.h"
+	<windows.h>
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\point.cpp
+	"point.h"
+	"tools.h"
+	<iostream>
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\snake.cpp
+	"snake.h"
+	<conio.h>
+	"tools.h"
+	<iostream>
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\startinterface.cpp
+	"startinterface.h"
+	<windows.h>
+
+1521984761 source:c:\users\chenz\desktop\c++练手项目\greedysnake-master\greedysnake-master\tools.cpp
+	"tools.h"
+	<windows.h>
+	<stdio.h>
+
+1568026070 source:c:\users\chenz\desktop\c++练手项目\snake\main.cpp
+	"controller.h"
+
+1568517013 c:\users\chenz\desktop\c++练手项目\snake\controller.h
+
+1568344205 source:c:\users\chenz\desktop\c++练手项目\snake\controller.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"controller.h"
+	"tools.h"
+	"startinterface.h"
+	"map.h"
+	"snake.h"
+	"food.h"
+
+1568178169 source:c:\users\chenz\desktop\c++练手项目\snake\tools.cpp
+	"tools.h"
+	<windows.h>
+	<stdio.h>
+
+1568178169 c:\users\chenz\desktop\c++练手项目\snake\tools.h
+
+1568178853 c:\users\chenz\desktop\c++练手项目\snake\startinterface.h
+	<deque>
+	<vector>
+	"point.h"
+
+1568085184 c:\users\chenz\desktop\c++练手项目\snake\point.h
+
+1568083122 source:c:\users\chenz\desktop\c++练手项目\snake\point.cpp
+	<iostream>
+	"point.h"
+	"tools.h"
+
+1568083177 source:c:\users\chenz\desktop\c++练手项目\snake\startinterface.cpp
+	"startinterface.h"
+	<windows.h>
+
+1568254494 c:\users\chenz\desktop\c++练手项目\snake\map.h
+	<vector>
+	"point.h"
+
+1568254512 source:c:\users\chenz\desktop\c++练手项目\snake\map.cpp
+	"map.h"
+	<windows.h>
+
+1568513250 source:c:\users\chenz\desktop\c++练手项目\snake\food.cpp
+	<iostream>
+	<cstdlib>
+	"food.h"
+	"tools.h"
+
+1568343311 c:\users\chenz\desktop\c++练手项目\snake\food.h
+	"snake.h"
+
+1568342166 c:\users\chenz\desktop\c++练手项目\snake\snake.h
+	<deque>
+	"point.h"
+	"food.h"
+
+1568344109 source:c:\users\chenz\desktop\c++练手项目\snake\snake.cpp
+	<iostream>
+	<conio.h>
+	"tools.h"
+	"snake.h"
+
